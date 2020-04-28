@@ -1,0 +1,16 @@
+{
+"companyName": "606",
+"productName": "Mitosis Escape",
+"productVersion": "0.1",
+"dataUrl": "April April 28th WebGL Build.data.unityweb",
+"wasmCodeUrl": "April April 28th WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "April April 28th WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.2f1"
+}
